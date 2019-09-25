@@ -2,8 +2,6 @@
 
 Self-developed code for rigid registration during the research with [Dr.Sabuncu](https://scholar.google.com/citations?user=Pig-I4QAAAAJ&hl=en&oi=ao) and [A.Dalca](https://scholar.google.com/citations?user=zRy-zdAAAAAJ&hl=en&oi=ao). 
 
-The code is currently in development.
-
 ## Data Augmentation
 Rotate 3D image: /ext/image 
 
