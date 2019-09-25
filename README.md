@@ -1,6 +1,7 @@
 # Rigid registration for 3D MRI 
 
-Code for 3D Image rigid registration during the research with [Dr.Sabuncu](https://scholar.google.com/citations?user=Pig-I4QAAAAJ&hl=en&oi=ao) and [A.Dalca](https://scholar.google.com/citations?user=zRy-zdAAAAAJ&hl=en&oi=ao). 
+Code for 3D Image rigid registration with yuqing Shou and Jin Cui. 
+Supervisor: [Dr.Sabuncu](https://scholar.google.com/citations?user=Pig-I4QAAAAJ&hl=en&oi=ao) and [A.Dalca](https://scholar.google.com/citations?user=zRy-zdAAAAAJ&hl=en&oi=ao)
 
 ## Data Augmentation
 Rotate 3D image: /ext/image 
